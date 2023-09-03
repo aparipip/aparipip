@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi 👋 My name is Muhammad Alviriza Ramadhan
+
+🌍  I'm based in Surabaya, Indonesia
+🖥️  See my portfolio at (coming soon)
+✉️  You can contact me at arifnc6@gmail.com
+🧠  I'm newbie programming
 
 <!--
 **aparipip/aparipip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
